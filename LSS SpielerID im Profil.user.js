@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS SpielerID im Profil
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Zeigt die Spieler-ID und den ungefähren Registrierungszeitpunkt im Profil an
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/profile/*
@@ -151,7 +151,7 @@
             "2726813": "November 2023",
             "2753420": "Dezember 2023",
             "2780032": "Januar 2024",
-            "2806644": "Februar 2024",
+            "2805262": "Februar 2024",
             "2833256": "März 2024",
             "2859868": "April 2024",
             "2886480": "Mai 2024",
